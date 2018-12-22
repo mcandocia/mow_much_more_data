@@ -235,3 +235,6 @@ experiment_4_trial(data1=NULL, data2=NULL, mu1=NULL, mu2=NULL, var1=NULL, var2=N
     }
   }
 }
+
+## EXPERIMENT 5 - analytically solve the required sample size for each p-value
+
